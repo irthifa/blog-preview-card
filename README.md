@@ -11,13 +11,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screencapture.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-css-flexbox-_KNWu5bQDD)
+- [Live Site URL](https://irthifa.github.io/blog-preview-card/)
 
 
 ### Built with
@@ -31,5 +31,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- [@irthifa](https://www.frontendmentor.io/profile/irthifa)
 
