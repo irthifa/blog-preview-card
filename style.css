@@ -26,6 +26,7 @@
    box-sizing: border-box;
    margin: 0;
    padding: 0;
+   line-height: 150%;
 }
 
 body {
@@ -52,7 +53,6 @@ main {
    font-family: figtree-basic;
    color: var(--Gray-950);
    font-size: var(--small-text);
-   line-height: 150%;
 }
 
 .content { 
